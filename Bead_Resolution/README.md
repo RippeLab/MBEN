@@ -1,4 +1,4 @@
-# Reolution measurements from beads
+# Resolution measurements from beads
 
 Collection of ipython notebooks for measuring resolution from images with 300nm beads.
 
