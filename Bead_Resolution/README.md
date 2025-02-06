@@ -28,4 +28,4 @@ Which the processing of each image type is different the notebooks follow a comm
 2) Find local maxima (https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_peak_local_max.html).
 3) Measure the signal to noise ratio (https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_peak_local_max.html).
 4) Calculate the FWHM for every peak along the Z,Y,X axes (https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.peak_widths.html).
-5) Plots the identified local maima over the image.
+5) Plots the identified local maxima over the image.
